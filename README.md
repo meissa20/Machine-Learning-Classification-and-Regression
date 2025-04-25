@@ -1,5 +1,5 @@
 ## Project Structure
-
+```
 Machine-Learning-Classification-and-Regression/
 ├── data/ # Dataset files (optional - if included)
 │ ├── magic_gamma.csv # Classification dataset
@@ -7,6 +7,7 @@ Machine-Learning-Classification-and-Regression/
 ├── KNN.ipynb # Classification notebook
 ├── Regression.ipynb # Regression notebook
 └── README.md # This file
+```
 
 
 ## Notebooks Overview
